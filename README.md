@@ -1,4 +1,4 @@
-# IRCTC Web and Mobile Application (User Experience & Performance Analysis)
+# IRCTC Mobile Application (User Experience & Performance Analysis)
 
 This project presents a comprehensive study and analysis of the **IRCTC (Indian Railway Catering and Tourism Corporation)** mobile applications.  
 It focuses on understanding user behavior, identifying pain points, and proposing design and functional improvements to enhance the overall digital railway booking experience.
