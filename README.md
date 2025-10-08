@@ -6,14 +6,14 @@ It focuses on understanding user behavior, identifying pain points, and proposin
 Our work examines IRCTC’s platform through a combination of **data analysis**, **user feedback**, **demographic research**, and **UI/UX redesign suggestions**.
 
 ## 👥 Team Members and Roles
-| Member | Roll No. | Role |
-|:--|:--|:--|
-| Vedang Trivedi | 202411026 | Data Collector |
-| Bokil Neel | 202411027 | Research Designer |
-| C Deepak | 202411028 | Data Analyst |
-| Jaydeep Darji | 202411029 | Research Designer |
-| Sarthak Darji | 202411030 | Project Manager |
-| Nischay Agrawal | 202411031 | Data Collector |
+| Member | Role |
+|:--|:--|
+| Vedang Trivedi | Data Collector |
+| Bokil Neel | Research Designer |
+| C Deepak  | Data Analyst |
+| Jaydeep Darji | Research Designer |
+| Sarthak Darji | Project Manager |
+| Nischay Agrawal | Data Collector |
 
 
 ## IRCTC App and Website
